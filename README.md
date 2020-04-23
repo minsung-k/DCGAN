@@ -1,1 +1,1 @@
-Generative Adversarial Networks(GAN) example sing Mnist file
+Generative Adversarial Networks(GAN) example
