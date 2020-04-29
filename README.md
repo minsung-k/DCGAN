@@ -8,4 +8,7 @@ Link: [Google][googlelink]
 
 ![Alt text](https://2.bp.blogspot.com/-oMyhHfxOqiE/WKF4KlVYWJI/AAAAAAAABRs/6BDIypy1hn0U8MGRFxfVaXOcQDO7vX1cQCK4B/s1600/dcgan-architecture.PNG)
 
+
+* Refered to [David Foster](https://github.com/davidADSP/GDL_code) (Book: Generative Deep Learning)
+
 ![test](https://user-images.githubusercontent.com/41711059/80072745-9e388100-8581-11ea-9732-b62f731ff88d.gif)
