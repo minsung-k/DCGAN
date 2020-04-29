@@ -4,7 +4,7 @@ Link: [Google][googlelink]
 
 [googlelink]: https://google.com "Go google"
 
-#### Tensorflow implementation of [Generative Adversarial Networks] in which is a stabilize Generative Adversarial Networks.
+#### Tensorflow implementation of [GAN][Generative Adversarial Networkspape] in which is a stabilize Generative Adversarial Networks.
 
 [Generative Adversarial Networks]: https://arxiv.org/abs/1511.06434 "Go paper"
 
