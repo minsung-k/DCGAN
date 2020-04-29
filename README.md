@@ -6,6 +6,6 @@ Link: [Google][googlelink]
 
 #### Tensorflow implementation of [Deep Convolution Generative Adversarial Networks](https://arxiv.org/abs/1511.06434 "Go paper") in which is a stabilize Generative Adversarial Networks.
 
-![Alt text](C:/Users/MINSUNGKANG/dcgan-architecture.PNG)
+![Alt text](https://2.bp.blogspot.com/-oMyhHfxOqiE/WKF4KlVYWJI/AAAAAAAABRs/6BDIypy1hn0U8MGRFxfVaXOcQDO7vX1cQCK4B/s1600/dcgan-architecture.PNG)
 
 ![test](https://user-images.githubusercontent.com/41711059/80072745-9e388100-8581-11ea-9732-b62f731ff88d.gif)
