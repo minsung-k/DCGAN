@@ -4,7 +4,7 @@ Link: [Google][googlelink]
 
 [googlelink]: https://google.com "Go google"
 
-#### Tensorflow implementation of [Deep Convolution Generative Adversarial Networks][https://arxiv.org/abs/1511.06434 "Go paper"] in which is a stabilize Generative Adversarial Networks.
+#### Tensorflow implementation of [Deep Convolution Generative Adversarial Networks](https://arxiv.org/abs/1511.06434 "Go paper") in which is a stabilize Generative Adversarial Networks.
 
 
 
